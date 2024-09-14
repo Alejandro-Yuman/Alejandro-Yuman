@@ -40,19 +40,35 @@ public class Desarrollador {
 💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
 
 ### 🧠 Habilidades en Mejoramiento
-- ☕ Java 
-- 🐍 Python 
-- 🧮 Fortran 
-- 🎮 Desarrollo de videojuegos - Unity 
-- 🎨 Modelado 3D - Blender 
+<div align='center'>
+<img src="https://skillicons.dev/icons?i=java" width='40' />
+<img src="https://skillicons.dev/icons?i=py" width='40' />
+<img src="https://skillicons.dev/icons?i=fortran" width='40' />
+<img src="https://skillicons.dev/icons?i=unity" width='40' />
+<img src="https://skillicons.dev/icons?i=blender" width='40' />
+<img src="https://skillicons.dev/icons?i=html" width='40' />
+<img src="https://skillicons.dev/icons?i=vscode" width='40' />
+<img src="https://skillicons.dev/icons?i=github" width='40' />
+</div>
+
+
 
 ### 📱 Contacto 
-- 📧 Email: renebarcoyuman@gmail.com
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/rene-alejandro-yuman-barco-529984213/" target="_blank"><img src="https://img.shields.io/badge/-Alejandro%20Yuman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:renebarcoyuman@gmail.com"><img src="https://img.shields.io/badge/-renebarcoyuman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    
+</div>
 <br>
 <br>
 
 <div align="center">
 <img align ='center' src='https://i.giphy.com/RThN0hOS2GO4M.gif'>
 </div>
+
+
+
+
+
 
