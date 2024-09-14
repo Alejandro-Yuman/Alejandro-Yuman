@@ -1,3 +1,4 @@
+## Hola, soy Rene Alejandro Yuman Barco 💻
 
 ```java
 
@@ -25,11 +26,9 @@ public class Desarrollador {
 ```
 
 
-## Hola, soy Rene Alejandro Yuman Barco 💻
+💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
 
-💻 **Desarrollador** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. Me gusta aprender nuevas herramientas 🛠️ y mejorar mis habilidades cada día 🌱.
-
-### Habilidades 🧠
+🧠 ### Habilidades 
 - Python 🐍
 - Java ☕
 - Desarrollo de videojuegos - Unity 🎮
