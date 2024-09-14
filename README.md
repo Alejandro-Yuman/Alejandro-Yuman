@@ -41,9 +41,9 @@ public class Desarrollador {
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://skillicons.dev/icons?i=py"/>
-<img src="https://skillicons.dev/icons?i=fortran" width='40' />
+<img src="https://skillicons.dev/icons?i=fortran"/>
 <img src="https://skillicons.dev/icons?i=unity"/>
-<img src="https://skillicons.dev/icons?i=blender" width='40' />
+<img src="https://skillicons.dev/icons?i=blender"/>
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=github" />
