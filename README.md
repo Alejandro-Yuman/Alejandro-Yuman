@@ -1,4 +1,4 @@
-## Hola, soy Alejandro Yuman 🔧
+## 🖥️ Hola, soy Alejandro Yuman 🔧
 
 <div align="center">
 <img align='center' src='https://64.media.tumblr.com/c7be594def53b7cd9e66bdd748e6f39b/tumblr_pdi86z5vnA1xcpg50o1_640.gif' width='50'>
@@ -14,7 +14,7 @@ public class Desarrollador {
     private String correo = "renebarcoyuman@gmail.com"
     private int edad = 19;
     
-    private String[] learning = {"Java", "Python", "Fortran", "Blender", "GitHub", "Unity"};
+    private String[] aprendiendo = {"Java", "Python", "Fortran", "Blender", "GitHub", "Unity"};
 
 
     public void saludar() {
