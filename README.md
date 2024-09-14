@@ -41,14 +41,14 @@ public class Desarrollador {
 
 ### 🧠 Habilidades en Mejoramiento
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=java" width='40' />
-<img src="https://skillicons.dev/icons?i=py" width='40' />
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=py"/>
 <img src="https://skillicons.dev/icons?i=fortran" width='40' />
-<img src="https://skillicons.dev/icons?i=unity" width='40' />
+<img src="https://skillicons.dev/icons?i=unity"/>
 <img src="https://skillicons.dev/icons?i=blender" width='40' />
-<img src="https://skillicons.dev/icons?i=html" width='40' />
-<img src="https://skillicons.dev/icons?i=vscode" width='40' />
-<img src="https://skillicons.dev/icons?i=github" width='40' />
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </div>
 
 
@@ -56,8 +56,9 @@ public class Desarrollador {
 ### 📱 Contacto 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/rene-alejandro-yuman-barco-529984213/" target="_blank"><img src="https://img.shields.io/badge/-Alejandro%20Yuman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:renebarcoyuman@gmail.com"><img src="https://img.shields.io/badge/-renebarcoyuman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rene-alejandro-yuman-barco-529984213/" target="_blank"><img src="https://img.shields.io/badge/-Alejandro%20Yuman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    
     
 </div>
 <br>
