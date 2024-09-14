@@ -42,10 +42,43 @@ public class Desarrollador {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py">
-  <img alt="Descripción de la imagen" src="ruta/de/imagen2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&theme=light">
+  <img alt="Java" src="https://skillicons.dev/icons?i=java">
 </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light">
+  <img alt="Python" src="https://skillicons.dev/icons?i=py">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fortran">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fortran&theme=light">
+  <img alt="Fortran" src="https://skillicons.dev/icons?i=fortran">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity&theme=light">
+  <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=blender">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=blender&theme=light">
+  <img alt="Blender" src="https://skillicons.dev/icons?i=blender">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light">
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
+  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github">
 
 
 </div>
