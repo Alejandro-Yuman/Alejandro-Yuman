@@ -41,7 +41,7 @@ public class Desarrollador {
 <div align='center'>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javag">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py">
   <img alt="Descripción de la imagen" src="ruta/de/imagen2.png">
 </picture>
