@@ -5,7 +5,7 @@
 public class Desarrollador {
     
     private String nombre = "Alejandro Yuman";
-    private String Descripcion ="Estudiante de Ingenieria en Sistemas, con voluntad de seguir aprendiendo cada dia"
+    private String Descripcion ="Estudiante de Ingenieria en Sistemas, con la determinación de aprender y crecer cada día."
     private String pais = "Guatemala"
     private String correo = "renebarcoyuman@gmail.com"
     private int edad = 19;
@@ -19,13 +19,15 @@ public class Desarrollador {
 
 
     public static void main(String[] args) {
-        Desarrollador rene = new Desarrollador();
-        rene.saludar();
+        Desarrollador Alejandro = new Desarrollador();
+        Alejandro.saludar();
     }
 }
 ```
+<br>
+<img align='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg' width='100'>
 
-
+<br>
 💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
 
 ### 🧠 Habilidades en Mejoramiento
@@ -37,7 +39,8 @@ public class Desarrollador {
 
 ### 📱 Contacto 
 - 📧 Email: renebarcoyuman@gmail.com
-
-<img align ='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg' width='300'>
+<br>
+<br>
+<img align ='center' src='https://i.giphy.com/RThN0hOS2GO4M.gif'>
 
 
