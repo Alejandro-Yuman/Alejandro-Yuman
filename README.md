@@ -1,4 +1,7 @@
 ## Hola, soy Rene Alejandro Yuman Barco 💻
+<div align="center">
+<img align='center' src='https://64.media.tumblr.com/c7be594def53b7cd9e66bdd748e6f39b/tumblr_pdi86z5vnA1xcpg50o1_640.gif' width='50'>
+</div>
 
 ```java
 
@@ -25,7 +28,10 @@ public class Desarrollador {
 }
 ```
 <br>
+
+<div align="center">
 <img align='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg' width='100'>
+</div>
 
 <br>
 💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
@@ -41,6 +47,8 @@ public class Desarrollador {
 - 📧 Email: renebarcoyuman@gmail.com
 <br>
 <br>
-<img align ='center' src='https://i.giphy.com/RThN0hOS2GO4M.gif'>
 
+<div align="center">
+<img align ='center' src='https://i.giphy.com/RThN0hOS2GO4M.gif'>
+</div>
 
