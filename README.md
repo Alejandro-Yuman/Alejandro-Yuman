@@ -14,8 +14,6 @@ public class Desarrollador {
     private String correo = "renebarcoyuman@gmail.com"
     private int edad = 19;
     
-    private String[] aprendiendo = {"Java", "Python", "Fortran", "Blender", "GitHub", "Unity"};
-
 
     public void saludar() {
         System.out.println("Hola Mundo");
