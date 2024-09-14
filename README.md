@@ -28,13 +28,16 @@ public class Desarrollador {
 
 💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
 
-🧠 ### Habilidades 
-- Python 🐍
-- Java ☕
-- Desarrollo de videojuegos - Unity 🎮
-- Modelado 3D - Blender 🎨
+### 🧠 Habilidades en Mejoramiento
+- ☕ Java 
+- 🐍 Python 
+- 🧮 Fortran 
+- 🎮 Desarrollo de videojuegos - Unity 
+- 🎨 Modelado 3D - Blender 
 
-### Contacto 📧
-- Email: renebarcoyuman@gmail.com
+### 📱 Contacto 
+- 📧 Email: renebarcoyuman@gmail.com
+
+<img align ='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg' width='300'>
 
 
