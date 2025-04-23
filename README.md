@@ -40,11 +40,7 @@ public class Desarrollador {
 <br>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/sangre_black.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/sangre_White.png">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/sangre_black.png' >
-</picture>
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
 </div>
 
 <br>
