@@ -44,9 +44,9 @@ public class Desarrollador {
 
 ### 🧠 Habilidades en Mejoramiento
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png" height="150px">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_white.png">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png' >
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png' height="150px">
 </picture>
 
 <picture>
