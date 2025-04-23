@@ -1,11 +1,17 @@
-<div style="background-color:#1C1C1C;">
 
 
+ 
 
 ## 🖥️ Hola, soy Alejandro Yuman 🔧
 
 <div align="center">
-<img align='center' src='./Images/llamas.png' >
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./Images/llamas_black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./Images/llamas_white.png">
+  <img align='center' src='./Images/llamas_black.png' >
+</picture>
+
+
 </div>
 
 ```java
@@ -34,7 +40,11 @@ public class Desarrollador {
 <br>
 
 <div align="center">
-<img align='center' src='https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg' width='100'>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./Images/sangre_black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./Images/sangre_white.png">
+  <img align='center' src='./Images/sangre_black.png' >
+</picture>
 </div>
 
 <br>
@@ -106,4 +116,3 @@ public class Desarrollador {
 
 
 
-</div>
