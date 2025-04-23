@@ -4,12 +4,12 @@
 
 ## 🖥️ Hola, soy Alejandro Yuman 🔧
 
-<div align="center">
+
 <div align="center">
   <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
 </div>
 
-</div>
+
 
 ```java
 
@@ -50,7 +50,7 @@ public class Desarrollador {
 
 ### 🧠 Habilidades en Mejoramiento
 
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java">
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=light">
