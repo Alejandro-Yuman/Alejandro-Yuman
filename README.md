@@ -5,12 +5,9 @@
 ## 🖥️ Hola, soy Alejandro Yuman 🔧
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_black.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_White.png">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_black.png' >
-</picture>
-
+<div align="center">
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
+</div>
 
 </div>
 
@@ -39,9 +36,7 @@ public class Desarrollador {
 
 <br>
 
-<div align="center">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
-</div>
+
 
 <br>
 
@@ -107,7 +102,11 @@ public class Desarrollador {
 <br>
 
 <div align="center">
-<img align ='center' src='https://i.giphy.com/RThN0hOS2GO4M.gif'>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_White.png">
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/llamas_black.png' >
+</picture>
 </div>
 
 
