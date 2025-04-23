@@ -43,7 +43,11 @@ public class Desarrollador {
 💻 **Estudiante** apasionado por la **tecnología** y el **desarrollo de videojuegos** 🎮. En constante aprendizaje de nuevas herramientas y adquiriendo conocimientos, con una disciplina firme para mejorar cada día🌱.
 
 ### 🧠 Habilidades en Mejoramiento
-<div align='center'>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_white.png">
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png' >
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java">
