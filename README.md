@@ -1,7 +1,11 @@
+<div style="background-color:#1C1C1C;">
+
+
+
 ## 🖥️ Hola, soy Alejandro Yuman 🔧
 
 <div align="center">
-<img align='center' src='https://64.media.tumblr.com/c7be594def53b7cd9e66bdd748e6f39b/tumblr_pdi86z5vnA1xcpg50o1_640.gif' width='50'>
+<img align='center' src='./Images/llamas.png' >
 </div>
 
 ```java
@@ -102,4 +106,4 @@ public class Desarrollador {
 
 
 
-
+</div>
