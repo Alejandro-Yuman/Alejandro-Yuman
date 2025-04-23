@@ -5,8 +5,13 @@
 ## 🖥️ Hola, soy Alejandro Yuman 🔧
 
 
-<div align="center">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
+
+<div align='center'>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png" height="150px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_white.png" height="150px">
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png' height="150px">
+</picture>
 </div>
 
 
@@ -35,14 +40,10 @@ public class Desarrollador {
 ```
 
 <br>
-<div align='center'>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png" height="150px">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_white.png" height="150px">
-  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/cruz_black.png' height="150px">
-</picture>
-</div>
 
+<div align="center">
+  <img align='center' src='https://raw.githubusercontent.com/Alejandro-Yuman/Alejandro-Yuman/refs/heads/main/Images/stars_White.gif' >
+</div>
 
 <br>
 
